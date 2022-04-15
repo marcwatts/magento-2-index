@@ -15,7 +15,7 @@
 	},
 	"description": "Magento 2 Admin Indexer",
 	"license": "proprietary",
-	"name": "marcwatts/module-index",
+	"name": "marcwatts/magento-2-index",
 	"type": "magento2-module",
 	"version": "1.0.0"
 }
