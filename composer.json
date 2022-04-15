@@ -1,0 +1,20 @@
+{
+	"authors": [
+		{
+			"name": "Marc Watts",
+			"email": "team@marcwatts.com.au"
+		}
+	],
+	"autoload": {
+		"files": [
+			"registration.php"
+		],
+		"psr-4": {
+			"Marcwatts\\Index\\": ""
+		}
+	},
+	"license": "proprietary",
+	"name": "marcwatts/index",
+	"type": "magento2-module",
+	"version": "1.0.0"
+}

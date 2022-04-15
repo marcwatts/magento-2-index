@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<!--
+/**
+* Marc Watts
+* Copyright (c) 2022 Marc Watts <marc@marcwatts.com.au>
+*
+* @author Marc Watts <marc@marcwatts.com.au>
+* @copyright Copyright (c) Marc Watts (https://marcwatts.com.au/)
+* @license Proprietary https://marcwatts.com.au/terms-and-conditions.html
+* @package Marcwatts_Index
+*/
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Marcwatts_Index" setup_version="1.0.0">
+    </module>
+</config>
