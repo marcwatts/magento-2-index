@@ -13,8 +13,9 @@
 			"Marcwatts\\Index\\": ""
 		}
 	},
+	"description": "Magento 2 Admin Indexer",
 	"license": "proprietary",
-	"name": "marcwatts/index",
+	"name": "marcwatts/module-index",
 	"type": "magento2-module",
 	"version": "1.0.0"
 }
